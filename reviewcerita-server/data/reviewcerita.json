@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Laskar Pelangi",
+    "imgUrl": "https://tse1.mm.bing.net/th?id=OIP.3IXBk_S8W-XYn8qGY2FiOQAAAA&pid=Api&P=0&h=180",
+    "review": "Buku ini sangat menginspirasi dengan cerita yang mendalam tentang persahabatan dan perjuangan.",
+    "status": "unfavorite",
+    "userId": 1
+  },
+  {
+    "name": "Bumi Manusia",
+    "imgUrl": "https://tse1.mm.bing.net/th?id=OIP.dhMMkR9NEcjh6AXio7qwyQHaHa&pid=Api&P=0&h=180",
+    "review": "Karya ini memberikan pandangan yang kuat tentang perjuangan rakyat Indonesia pada masa penjajahan.",
+    "status": "unfavorite",
+    "userId": 2
+  },
+  {
+    "name": "Negeri 5 Menara",
+    "imgUrl": "https://tse2.mm.bing.net/th?id=OIP.Rygm6KcENJ4HMBXB6GZG9AAAAA&pid=Api&P=0&h=180",
+    "review": "Sebuah kisah tentang mimpi dan tekad yang tak tergoyahkan.",
+    "status": "unfavorite",
+    "userId": 3
+  },
+  {
+    "name": "Perahu Kertas",
+    "imgUrl": "https://tse4.mm.bing.net/th?id=OIP.bPF9BBdZVP-vTZKWPIK_LQHaMI&pid=Api&P=0&h=180",
+    "review": "Novel ini menawarkan cerita yang menyentuh tentang cinta dan perjalanan hidup.",
+    "status": "unfavorite",
+    "userId": 4
+  },
+  {
+    "name": "Ronggeng Dukuh Paruk",
+    "imgUrl": "https://tse4.mm.bing.net/th?id=OIP.n_5ILMoH9BkFlEMx8TgrIwHaK_&pid=Api&P=0&h=180",
+    "review": "Sebuah novel klasik yang menggambarkan kehidupan di pedesaan dengan sangat nyata.",
+    "status": "unfavorite",
+    "userId": 2
+  },
+  {
+    "name": "Pulang",
+    "imgUrl": "https://tse1.mm.bing.net/th?id=OIP.Gfo7Gi8H-M1t2O3AlqaqKwAAAA&pid=Api&P=0&h=180",
+    "review": "Kisah ini mengeksplorasi tema keluarga dan perjalanan pulang yang penuh makna.",
+    "status": "unfavorite",
+    "userId": 4
+  },
+  {
+    "name": "Hujan",
+    "imgUrl": "https://tse3.mm.bing.net/th?id=OIP.aCs_X__CRccnnpv4C5MXugHaLA&pid=Api&P=0&h=180",
+    "review": "Novel fiksi ilmiah yang menantang dengan konsep yang unik tentang masa depan. soke bahtera terlalu greenflag gasi",
+    "status": "unfavorite",
+    "userId": 1
+  },
+  {
+    "name": "Supernova",
+    "imgUrl": "https://tse4.mm.bing.net/th?id=OIP.dKKdcFgwhEYUpFcpXh_I3wAAAA&pid=Api&P=0&h=180",
+    "review": "Buku ini menawarkan alur cerita yang kompleks dan mendalam.",
+    "status": "unfavorite",
+    "userId": 2
+  },
+  {
+    "name": "Dilan 1990",
+    "imgUrl": "https://tse2.mm.bing.net/th?id=OIP.sEfKP4v8fP5_YnavOebTrAHaKs&pid=Api&P=0&h=180",
+    "review": "Cerita yang mengembalikan kenangan manis masa remaja dengan romantisme yang ringan.",
+    "status": "unfavorite",
+    "userId": 3
+  },
+  {
+    "name": "Gadis Kretek",
+    "imgUrl": "https://tse2.mm.bing.net/th?id=OIP.8gDhYBTEyI4ydTAVI7FLFAHaK-&pid=Api&P=0&h=180",
+    "review": "Sebuah kisah yang unik tentang sejarah industri rokok di Indonesia.",
+    "status": "unfavorite",
+    "userId": 4
+  },
+  {
+    "name": "Seperti Dendam, Rindu Harus Dibayar Tuntas",
+    "imgUrl": "https://tse1.mm.bing.net/th?id=OIP.-ypm38p-v5euWU432X-AeQHaLJ&pid=Api&P=0&h=180",
+    "review": "Novel dengan gaya bahasa yang kuat dan cerita yang memukau.",
+    "status": "unfavorite",
+    "userId": 1
+  },
+  {
+    "name": "Cantik Itu Luka",
+    "imgUrl": "https://tse3.mm.bing.net/th?id=OIP.eopElNZCIloqu4jJjRfiZgHaLS&pid=Api&P=0&h=180",
+    "review": "Kisah yang menggugah tentang keindahan dan tragedi dalam kehidupan.",
+    "status": "unfavorite",
+    "userId": 2
+  },
+  {
+    "name": "Rectoverso",
+    "imgUrl": "https://tse1.mm.bing.net/th?id=OIP.BkHc__tFPQgRaHHyy_QOZwHaOG&pid=Api&P=0&h=180",
+    "review": "Kumpulan cerita pendek yang menyentuh hati dengan gaya penceritaan yang unik.",
+    "status": "unfavorite",
+    "userId": 3
+  },
+  {
+    "name": "9 Summers 10 Autumns",
+    "imgUrl": "https://tse4.mm.bing.net/th?id=OIP._gUGK9orLN1EvEp03Z8sXQHaKr&pid=Api&P=0&h=180",
+    "review": "Memoar yang mengharukan tentang perjalanan hidup seorang anak desa hingga sukses di kota besar.",
+    "status": "unfavorite",
+    "userId": 4
+  },
+  {
+    "name": "Koala Kumal",
+    "imgUrl": "https://tse3.mm.bing.net/th?id=OIP.2kOuCWYZ5qhcs6xHCIy0JQHaKj&pid=Api&P=0&h=180",
+    "review": "Cerita humoris yang menghibur dengan sentuhan pesan mendalam.",
+    "status": "unfavorite",
+    "userId": 1
+  },
+  {
+    "name": "Marmut Merah Jambu",
+    "imgUrl": "https://tse4.mm.bing.net/th?id=OIP.ERjg_ngh7y-sWDxRNy2vXwHaKj&pid=Api&P=0&h=180",
+    "review": "Buku yang menyajikan cerita cinta dan persahabatan dengan gaya yang ringan dan menghibur.",
+    "status": "unfavorite",
+    "userId": 2
+  },
+  {
+    "name": "Selamat Tinggal",
+    "imgUrl": "https://tse4.mm.bing.net/th?id=OIP.OGb2A72MsaGMfdJI_PabEgHaLB&pid=Api&P=0&h=180",
+    "review": "Novel ini menggambarkan kisah perpisahan yang penuh emosi dan makna.",
+    "status": "unfavorite",
+    "userId": 3
+  },
+  {
+    "name": "Rindu",
+    "imgUrl": "https://tse3.mm.bing.net/th?id=OIP.BJd6-n5Cd6WafOcZMRtRGwHaLI&pid=Api&P=0&h=180",
+    "review": "Kisah ini menyentuh hati dengan tema cinta dan penantian yang tak kunjung usai.",
+    "status": "unfavorite",
+    "userId": 4
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "imgUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+    "review": "Sebuah novel klasik yang menggugah perasaan tentang keadilan dan moralitas dalam masyarakat.",
+    "status": "unfavorite",
+    "userId": 1
+  },
+  {
+    "name": "1984",
+    "imgUrl": "https://tse2.mm.bing.net/th?id=OIP.AN98hQCDmDGeQBj0BLrldgHaLc&pid=Api&P=0&h=180",
+    "review": "Novel distopia yang mengeksplorasi tema kontrol pemerintah dan kebebasan individu.",
+    "status": "unfavorite",
+    "userId": 2
+  },
+  {
+    "name": "Pride and Prejudice",
+    "imgUrl": "https://tse3.mm.bing.net/th?id=OIP.S58hwTuu9KUQEvh0qpC4CgHaKN&pid=Api&P=0&h=180",
+    "review": "Kisah cinta yang cerdas dan menggugah tentang masyarakat kelas atas di Inggris.",
+    "status": "unfavorite",
+    "userId": 3
+  },
+  {
+    "name": "The Great Gatsby",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Cvkjn_YHQtg33MkKDLlMi5XPIR-J-x30g&s",
+    "review": "Novel yang indah tentang mimpi Amerika dan kerapuhan kemakmuran.",
+    "status": "unfavorite",
+    "userId": 4
+  },
+  {
+    "name": "The Catcher in the Rye",
+    "imgUrl": "https://tse2.mm.bing.net/th?id=OIP.ysUvu--oOBJ3T2gdv4dBYwHaL8&pid=Api&P=0&h=180",
+    "review": "Novel remaja klasik yang menangkap kebingungan dan ketidakpuasan masa muda.",
+    "status": "unfavorite",
+    "userId": 2
+  },
+  {
+    "name": "Jane Eyre",
+    "imgUrl": "https://tse4.mm.bing.net/th?id=OIP.V72Kneb7vovsk_Y8JcmW3QHaLf&pid=Api&P=0&h=180",
+    "review": "Kisah perjalanan hidup seorang wanita muda yang penuh dengan keberanian dan tekad.",
+    "status": "unfavorite",
+    "userId": 3
+  },
+  {
+    "name": "Brave New World",
+    "imgUrl": "https://tse3.mm.bing.net/th?id=OIP._dEPMjJRmrbh1LV-gqpw8wHaLS&pid=Api&P=0&h=180",
+    "review": "Novel fiksi ilmiah yang menantang konsep kebebasan dan kebahagiaan dalam masyarakat modern.",
+    "status": "unfavorite",
+    "userId": 4
+  },
+  {
+    "name": "Wuthering Heights",
+    "imgUrl": "https://tse4.mm.bing.net/th?id=OIP.oknwZcOISh0G2EPL3BKenQHaL3&pid=Api&P=0&h=180",
+    "review": "Cerita cinta yang gelap dan penuh emosi di dataran Inggris yang misterius.",
+    "status": "unfavorite",
+    "userId": 1
+  },
+  {
+    "name": "The Hobbit",
+    "imgUrl": "https://tse1.mm.bing.net/th?id=OIP.hvWhVwwHE56-sq_5fWkwXAHaJw&pid=Api&P=0&h=180",
+    "review": "Petualangan fantasi yang memukau tentang perjalanan seorang hobbit dalam menemukan keberanian.",
+    "status": "unfavorite",
+    "userId": 2
+  }
+]
